@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Projects
+description: "Different projects I have been involved in over the years"
+author: "Maria del Mar Quiroga"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -15,7 +15,7 @@ sidebar:
     Projects can be anything!
     Check out the _index.md file in the /project folder 
     to edit this content.
-  author: "The R Markdown Team @RStudio"
+  author: "Maria del Mar Quiroga"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
