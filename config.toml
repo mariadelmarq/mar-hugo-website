@@ -1,10 +1,10 @@
-baseURL = "/"
+baseURL = "https://marstudio.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Personal website of Maria del Mar Quiroga"
 author = "Maria del Mar Quiroga"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "G-2XQBMVF2RN"
 disqusShortname = ""
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -30,10 +30,10 @@ enableEmoji = true
 [params]
   orgName = "Maria del Mar Quiroga"
   orgLocal = "Melbourne, Australia"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "This is my personal website"
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  logo = "/img/mate.png"
+  mainSections = ["project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -73,10 +73,7 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/mariadelmarq"
+
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -85,6 +82,14 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/maria-del-mar-quiroga-phd-a5aabb120/"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://orcid.org/0000-0002-8943-2808"
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/mariadelmarq"
   #[[params.social]]
   #    icon      = "instagram" # icon name without the 'fa-'
   #    icon_pack = "fab"
@@ -106,11 +111,11 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+#  [[menu.header]]
+#    name = "Blog"
+#    title = "Blog"
+#    url = "/blog/"
+#    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
