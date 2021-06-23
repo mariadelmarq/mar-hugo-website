@@ -34,17 +34,15 @@ links:
 ---
 ![Electrophysiology recording](featured-recording.png)
 
-After finishing my PhD, I moved to Australia and worked in the department of Physiology at Monash University. My role was to co-develop virtual experiments with different faculty members that serve five key outcomes:
+After finishing my PhD, I moved to Australia and worked in the department of Physiology at Monash University. My role was to co-develop virtual experiments with faculty members for teaching undergraduate physiology subjects. I collaborated with faculty to design these online activities. The faculty members would normally provide the written content and expected results, and I implemented the activities using HTML, CSS, and Javascript (jquery, D3.js, etc.). The objective of these virtual experiments, or simulations, was to:
 
-- Familiarize students with the specifics of the experimental setup and data collection that they simulate. This has resulted in more efficient “wet lab” practical classes, allowing for more efficient data collection and more time to fully explore the experimental process, and engage in data analysis and interpretation. 
+- familiarize students with the specifics of the experimental setup and data collection that they simulate
 
-- Allow students to perform experiments that are impossible in a traditional classroom, such as the effects of aging or disease, or the effects of expensive or controlled substances. 
+- allow students to perform experiments that are impossible in a traditional classroom, such as the effects of aging or disease, or the effects of expensive or controlled substances
 
-- Reduce the number of animals used in the practical classes, which addresses both growing student concern into the use of animals for teaching and the time spent by staff preparing surgical procedures, tissues, etc. 
+- reduce the number of animals used in practical classes
 
-- Bridge gaps in knowledge necessary to carry out the wet lab class, such as how to evaluate and enter data collected for analysis, or remind the student of the anatomy or physiology of the system to be studied. 
-
-- Every student is fully involved in all aspects of each simulation, and we randomize the data so that no two students get identical data. This stands in contrast to the limitations introduced by the use of expensive equipment, where large student groups perform an experiment with only a few of them actively involved in the process, and no variability in the data.
+- bridge gaps in knowledge necessary to carry out the wet lab class
 
 ---
 

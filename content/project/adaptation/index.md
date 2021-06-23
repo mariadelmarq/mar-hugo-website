@@ -1,7 +1,7 @@
 ---
 title: "Adaptation and recurrent networks"
 subtitle: "My PhD project"
-excerpt: "For my PhD, I studied how brain cells process visual information. More specifically, how the way our brain cells are densely connected to each other can generate perceptual changes known as adaptation."
+excerpt: "For my PhD I studied how brain cells process visual information. More specifically, how the way our brain cells are densely connected to each other can generate perceptual changes known as adaptation."
 date: 2015-01-31
 author: "Maria del Mar Quiroga"
 draft: false
@@ -23,6 +23,8 @@ links:
   name: behaviour
   url: https://doi.org/10.3389/fnsys.2019.00067
 ---
+
+I did my PhD at the [Center for Molecular and Behavioral Neuroscience](https://cmbn.rutgers.edu/) of Rutgers University Newark, in [Prof. Bart Krekelberg's lab](https://www.vision.rutgers.edu/).
 
 ### Recurrent network model
 
