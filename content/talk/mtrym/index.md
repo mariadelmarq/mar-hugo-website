@@ -13,6 +13,7 @@ draft: false
 layout: single
 categories:
 - forum
+- Neuroscience
 links:
 - icon: brain
   icon_pack: fas

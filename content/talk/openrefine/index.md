@@ -14,6 +14,7 @@ draft: false
 layout: single
 categories:
 - workshop
+- data science
 links:
 - icon: youtube
   icon_pack: fab

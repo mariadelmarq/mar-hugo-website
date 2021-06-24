@@ -11,6 +11,7 @@ draft: false
 layout: single
 categories:
 - podcast
+- data science
 links:
 - icon: podcast
   icon_pack: fas
