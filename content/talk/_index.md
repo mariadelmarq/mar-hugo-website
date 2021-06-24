@@ -1,8 +1,7 @@
 ---
-title: Talks that Last
-description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+title: Presentations
+description: Selection of demonstrations, workshops, and other talks I have delivered.
+author: "Maria del Mar Quiroga"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -27,7 +26,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Maria del Mar Quiroga"
   show_author_byline: true
   show_post_date: true
   show_post_time: true
