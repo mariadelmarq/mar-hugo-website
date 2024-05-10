@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Maria del Mar Quiroga"
-role: "Research Data Specialist @ MDAP"
+role: "Senior Research Data Specialist @ MDAP"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
