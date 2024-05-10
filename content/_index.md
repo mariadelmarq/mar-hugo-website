@@ -1,6 +1,6 @@
 ---
 title: "Maria del Mar Quiroga"
-subtitle: "Research Data Specialist @ Melbourne Data Analytics Platform"
+subtitle: "Senior Research Data Specialist @ Melbourne Data Analytics Platform"
 description: "Data analyst | Mathematician | Neuroscientist | Programmer | [Superstar of STEM](https://scienceandtechnologyaustralia.org.au/profile/dr-maria-del-mar-quiroga/)"
 date: 2019-02-18T12:27:33-06:00
 images:
